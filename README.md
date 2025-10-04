@@ -27,3 +27,12 @@ Web-based chat UI
 
 Dockerized deployment
 
+
+## Installation
+
+### Using Docker
+```bash
+docker build -t graph-llm-agent .
+docker run -p 5000:5000 graph-llm-agent
+```
+
