@@ -1,0 +1,12 @@
+
+gradio==4.42.0
+pypdf
+yake==0.4.8
+networkx==3.3
+pyvis==0.3.2
+sentence-transformers==3.0.1
+faiss-cpu==1.8.0.post1
+transformers==4.43.4
+accelerate==0.33.0
+torch
+openai
