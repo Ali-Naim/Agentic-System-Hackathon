@@ -25,38 +25,6 @@ LLM-powered question answering
 
 
 
-## Installation
-
-### Using Docker
-```bash
-docker build -t graph-llm-agent .
-docker run -p 5000:5000 graph-llm-agent
-```
-
-### Local Setup
-git clone https://github.com/yourusername/repo-name.git
-cd repo-name
-pip install -r requirements.txt
-python app/main.py
-
-
-
-### **g) Usage**
-Explain how to run the UI or API and test it:
-
-```markdown
-## Usage
-1. Upload a PDF using the web UI
-2. Wait for the graph visualization
-3. Ask a question related to the document
-4. The agent returns an answer referencing the graph
-
-
 ## Demo Video
-[Watch the demo](./demo_video.mp4)
-
-Web-based chat UI
-
-Dockerized deployment
-
+https://mailaub-my.sharepoint.com/:f:/r/personal/rre30_mail_aub_edu/Documents/AUB/Semesters/4.Fall%2025-26/Agentic%20Systems%20798S/Video?csf=1&web=1&e=94bzrA
 
