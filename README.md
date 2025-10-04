@@ -19,11 +19,11 @@ In summary, the Educational Tutor:
 
 ## Features
 
-Graph generation from [modality]
+Graph generation from PDF
 
 LLM-powered question answering
 
-Optional web-based chat UI
+Web-based chat UI
 
 Dockerized deployment
 
