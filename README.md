@@ -54,3 +54,6 @@ Explain how to run the UI or API and test it:
 3. Ask a question related to the document
 4. The agent returns an answer referencing the graph
 
+
+## Demo Video
+[Watch the demo](./demo_video.mp4)
