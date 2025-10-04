@@ -183,7 +183,7 @@ import re
 from collections import Counter
 from openai import OpenAI
 
-client = OpenAI(api_key='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')
+client = OpenAI(api_key='sk-proj-......')
 
 # def extract_concepts_openai(text, max_concepts=30):
 #     """Ask the LLM to return a strict JSON with a list of concepts and short descriptions."""
