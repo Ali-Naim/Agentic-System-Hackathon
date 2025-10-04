@@ -8,8 +8,8 @@ COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
 # Copy your Python app (converted from .ipynb)
-COPY app.py .
+COPY app.ipynb .
 
 EXPOSE 7860
 
-CMD ["python", "app.py"]
+CMD ["python", "app.ipynb"]
