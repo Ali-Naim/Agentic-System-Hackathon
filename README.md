@@ -17,5 +17,13 @@ In summary, the Educational Tutor:
 •	Allows the user to ask educational questions, and
 •	Returns contextually grounded answers by reasoning over the graph.
 
+## Features
 
+Graph generation from [modality]
+
+LLM-powered question answering
+
+Optional web-based chat UI
+
+Dockerized deployment
 
